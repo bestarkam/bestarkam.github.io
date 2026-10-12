@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dr. Aganze Kamwami Armel | General Practitioner,Clinical research | Data Manager & MEAL Specialist</title>
+    <title>Dr. Aganze Armel | General Practitioner,Clinical research | Data Manager & MEAL Specialist</title>
     <!-- Tailwind CSS for a professional and clean design -->
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
@@ -12,7 +12,7 @@
     <!-- Header / Hero Section -->
     <header class="bg-blue-900 text-white py-16 px-6 text-center">
         <div class="max-w-4xl mx-auto">
-            <h1 class="text-4xl font-bold mb-4">Aganze Kamwami Arme</h1>
+            <h1 class="text-4xl font-bold mb-4">Aganze Armel</h1>
             <p class="text-xl text-blue-200 mb-6">General Practitioner (MD) | Health MEAL & Data Management Specialist | Clinical Research</p>
             <p class="text-sm text-blue-100 max-w-2xl mx-auto bg-blue-800 p-4 rounded-lg shadow-inner">
                 Graduate of the University of Goma (UNIGOM), combining hospital clinical experience with proven expertise in Monitoring, Evaluation, Accountability and Learning (MEAL), health data management, and WHO-certified clinical trial design.
@@ -99,7 +99,7 @@
 
     <!-- Footer -->
     <footer class="bg-gray-800 text-white text-center py-6 mt-16">
-        <p class="text-sm">&copy; 2026 Dr. Hazael Camoni. Powered by GitHub Pages.</p>
+        <p class="text-sm">&copy; 2026 Dr. Aganze Armel. Powered by GitHub Pages.</p>
     </footer>
 
 </body>
