@@ -12,7 +12,9 @@
     <!-- Header / Hero Section -->
     <header class="bg-blue-900 text-white py-16 px-6 text-center">
         <div class="max-w-4xl mx-auto">
-            <h1 class="text-4xl font-bold mb-4">Aganze Armel</h1>
+        <!-- Votre photo de profil -->
+        <img src="armel_hospital.jpg" alt="Dr. Aganze Armel" class="w-32 h-32 rounded-full object-cover mx-auto mb-6 border-4 border-white shadow-xl">
+            <h1 class="text-4xl font-bold mb-4">Dr. Aganze Armel</h1>
             <p class="text-xl text-blue-200 mb-6">General Practitioner (MD) | Health MEAL & Data Management Specialist | Clinical Research</p>
             <p class="text-sm text-blue-100 max-w-2xl mx-auto bg-blue-800 p-4 rounded-lg shadow-inner">
                 Graduate of the University of Goma (UNIGOM), combining hospital clinical experience with proven expertise in Monitoring, Evaluation, Accountability and Learning (MEAL), health data management, and WHO-certified clinical trial design.
